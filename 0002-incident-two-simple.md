@@ -5,7 +5,7 @@ title: 'INCIDENT 0002 | Incident Two Simple'
 labels: ''
 assignees: ''
 status: Resolved
-date: 2023-02-10
+date: 2023-02-12
 ---
 
 ## Trigger
