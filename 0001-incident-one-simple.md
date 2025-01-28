@@ -1,7 +1,7 @@
 ---
 name: Orcfax Incident Report Simple
 about: A template (minus comment blocks) for recording incidents relating to Orcfax and their resulting assessment, impact, and resolution
-title: '0001-incident-one-simple'
+title: 'INCIDENT 0001 | Incident One Simple'
 status: Under Review
 date: 2025-01-20
 labels: ''
