@@ -3,7 +3,6 @@ name: "Orcfax Incident Report"
 title: "INCIDENT 0001 | Example Incident"
 published: YYYY-MM-DD
 status: "Under Review"
-severity: ""
 trigger: ""
 ---
 
@@ -18,13 +17,6 @@ YYYY-MM-DD
 -   [ ] In Progress
 -   [ ] Mitigated
 -   [ ] Resolved
-
-## Severity
-
--   [ ] Critical
--   [ ] High
--   [ ] Medium
--   [ ] Low
 
 ## Trigger
 

@@ -3,7 +3,6 @@ name: "Orcfax Incident Report"
 title: "INCIDENT 0001 | Stale CNT prices (BTN-ADA)"
 published: 2025-01-30
 status: "Resolved"
-severity: "Medium"
 trigger: "Anomalous system behaviors"
 ---
 
@@ -18,13 +17,6 @@ trigger: "Anomalous system behaviors"
 -   [ ] In Progress
 -   [ ] Mitigated
 -   [x] Resolved
-
-## Severity
-
--   [ ] Critical
--   [ ] High
--   [x] Medium
--   [ ] Low
 
 ## Trigger
 
